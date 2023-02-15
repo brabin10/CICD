@@ -29,6 +29,8 @@
   </div>
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
+    <br>
+    <h3>&copy;Rabin Basnet</h3>
   </div>
 
   
