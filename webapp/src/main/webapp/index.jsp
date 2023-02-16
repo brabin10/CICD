@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Yahoo!!User Registration</h1>
+    <h1>User Registration</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
@@ -8,7 +8,7 @@
     <input type="text" placeholder="Full Name" name="Name" id="Name" required>
     <br>
     
-    <label for="mobile"><b>Enter mobile</b></label>
+    <label for="mobile"><b>Enter Mobile</b></label>
     <input type="text" placeholder="Phone" name="mobile" id="mobile" required>
     <br>
 
@@ -16,12 +16,12 @@
     <input type="text" placeholder="Email" name="email" id="email" required>
     <br>
 
-    <label for="psw"><b>Password</b></label>
+    <label for="psw"><b>Enter Password</b></label>
     <input type="password" placeholder="Password" name="psw" id="psw" required>
     <br>
 
     <label for="psw-confirm"><b>Confirm Password</b></label>
-    <input type="password" placeholder="Confirm Password" name="psw-confirm" id="psw-confirm" required>
+    <input type="password" placeholder="Password" name="psw-confirm" id="psw-confirm" required>
     <hr>
     <br>
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
